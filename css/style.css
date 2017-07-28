@@ -57,12 +57,13 @@ a:hover,a:active,a:focus,a:visited{
   width: 100%;
   min-height: 500px;
   height: 100vh;
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("../assets/pexels-photo.jpg") no-repeat center center;
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("https://s-ec.bstatic.com/images/hotel/max1024x768/438/43853845.jpg") center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   overflow: hidden;
+
 }
 
 .text-vertical-center {
