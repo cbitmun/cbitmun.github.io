@@ -35,12 +35,21 @@ a:hover,a:active,a:focus,a:visited{
   z-index: 1;
 }
 
-.nav-link{
-  color: #000;
-  font-weight: 700;
-  font-size: 16px;
+@media(max-width: 746px){
+  .navbar-transparent{
+    background:rgba(0,0,0,0.6);
+  }
 }
 
+.nav-link{
+  color: #FFF;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.nav-link:hover{
+  color: #EEE;
+}
 
 .hero-unit{
   display: table;
@@ -70,7 +79,7 @@ a:hover,a:active,a:focus,a:visited{
 }
 .hero-unit-secondary-text{
   font-size: 60px;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1;
 }
 .hero-unit-btn{
