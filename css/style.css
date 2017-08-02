@@ -19,6 +19,19 @@ a:hover,a:active,a:focus,a:visited{
   outline: none;
 }
 
+.team-name{
+font-family: 'Playfair Display', serif;
+font-size: 22px;
+font-weight: 600;
+color: #525252;
+}
+.team-des{
+font-family: 'Playfair Display', serif;
+font-size: 16px;
+font-weight: 600;
+color: #525252;
+}
+
 .navbar-toggleable-md .navbar-nav .nav-link {
   padding-right: 20px;
   padding-left: 20px;
