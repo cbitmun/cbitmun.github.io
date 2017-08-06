@@ -74,7 +74,14 @@ a:hover,a:active,a:focus,a:visited{
   .navbar-transparent{
     background:rgba(0,0,0,0.6);
   }
-
+  .center-res{
+    text-align: center;
+  }
+}
+@media(max-width: 575){
+  .center-res{
+    text-align: center;
+  }
 }
 @media(max-width: 946px){
   .nav-image{
