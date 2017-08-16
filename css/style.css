@@ -18,6 +18,9 @@ a:hover,a:active,a:focus,a:visited{
   text-decoration: none;
   outline: none;
 }
+section{
+  position: relative;
+}
 
 .team-name{
   margin-top: 10px;
